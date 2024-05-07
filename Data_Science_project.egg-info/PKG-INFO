@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Data-Science-project
+Version: 0.0.1
+Summary: This is a Data Science project
+Author: SHIVAN KUMAR
+Author-email: dummay@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: Flask
+Requires-Dist: flask_cors
+Requires-Dist: requests
+Requires-Dist: scikit-learn
+Requires-Dist: torch
+Requires-Dist: pytorch_lightning
+Requires-Dist: transformers
+Requires-Dist: tensorboard
